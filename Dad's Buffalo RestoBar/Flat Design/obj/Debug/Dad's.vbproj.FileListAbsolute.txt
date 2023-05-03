@@ -1,0 +1,13 @@
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\bin\Debug\Flat Design.exe.config
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\bin\Debug\Flat Design.exe
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\bin\Debug\Flat Design.pdb
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\bin\Debug\Flat Design.xml
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat_Design.Form1.resources
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat_Design.Form2.resources
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat_Design.Resources.resources
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Dad's.vbproj.GenerateResource.Cache
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat Design.exe
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat Design.xml
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat Design.pdb
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\obj\Debug\Flat_Design.Employee.resources
+C:\Users\JAY\Downloads\Flat Design\Flat Design\Flat Design\bin\Debug\MySql.Data (1).DLL
