@@ -1,0 +1,87 @@
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\Jay.exe.config
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\localhost.mdf
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\localhost_log.ldf
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\Jay.exe
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\Jay.pdb
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\Jay.xml
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.Resources.resources
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.vbproj.GenerateResource.Cache
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.exe
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.xml
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.pdb
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.Employee.resources
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\obj\Debug\Jay.vbprojResolveAssemblyReference.cache
+c:\users\ics\documents\visual studio 2013\Projects\Jay\Jay\bin\Debug\MySql.Data.DLL
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Resources.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.vbproj.GenerateResource.Cache
+C:\Users\JAY\Downloads\Jay\Jay\bin\Debug\Jay.exe.config
+C:\Users\JAY\Downloads\Jay\Jay\bin\Debug\Jay.exe
+C:\Users\JAY\Downloads\Jay\Jay\bin\Debug\Jay.pdb
+C:\Users\JAY\Downloads\Jay\Jay\bin\Debug\Jay.xml
+C:\Users\JAY\Downloads\Jay\Jay\bin\Debug\MySql.Data (1).DLL
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.exe
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.xml
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.pdb
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Employee.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Form1.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Form2.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Drinks.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.SplashScreen1.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.manage_foods.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.Manage_Foods_Real.resources
+C:\Users\JAY\Downloads\Jay\Jay\obj\Debug\Jay.vbprojResolveAssemblyReference.cache
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.vbprojResolveAssemblyReference.cache
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Drinks.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Employee.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Form1.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Form2.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Manage_Foods_Real.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.manage_foods.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.Resources.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.SplashScreen1.resources
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.vbproj.GenerateResource.Cache
+C:\Users\JAY\Documents\Jay\Jay\bin\Debug\Jay.exe.config
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.exe
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.xml
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.pdb
+C:\Users\JAY\Documents\Jay\Jay\bin\Debug\Jay.exe
+C:\Users\JAY\Documents\Jay\Jay\bin\Debug\Jay.pdb
+C:\Users\JAY\Documents\Jay\Jay\bin\Debug\Jay.xml
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Drinks.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Employee.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Form1.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Form2.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Manage_Foods_Real.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.manage_foods.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Resources.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.vbproj.GenerateResource.Cache
+C:\Users\ICS\Documents\Jay\Jay\bin\Debug\Jay.exe.config
+C:\Users\ICS\Documents\Jay\Jay\bin\Debug\Jay.exe
+C:\Users\ICS\Documents\Jay\Jay\bin\Debug\Jay.pdb
+C:\Users\ICS\Documents\Jay\Jay\bin\Debug\Jay.xml
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.exe
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.xml
+C:\Users\ICS\Documents\Jay\Jay\obj\Debug\Jay.pdb
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Transaction.resources
+C:\Users\JAY\Documents\Jay\Jay\bin\Debug\MySql.Data (1).DLL
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Customer.resources
+C:\Users\JAY\Documents\Jay\Jay\obj\Debug\Jay.Suppliers.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\bin\Debug\Jay.exe.config
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.exe
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.xml
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.pdb
+C:\Users\JAY\Documents\Jay\Jay\Jay\bin\Debug\Jay.exe
+C:\Users\JAY\Documents\Jay\Jay\Jay\bin\Debug\Jay.pdb
+C:\Users\JAY\Documents\Jay\Jay\Jay\bin\Debug\Jay.xml
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Customer.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Drinks.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Employee.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Form1.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Form2.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Manage_Foods_Real.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.manage_foods.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Resources.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Suppliers.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.Transaction.resources
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.vbproj.GenerateResource.Cache
+C:\Users\JAY\Documents\Jay\Jay\Jay\obj\Debug\Jay.vbprojResolveAssemblyReference.cache
